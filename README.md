@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Andrey (@andreygryazev) 👨‍💻
 
-<!--
-**andreygryazev/andreygryazev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Developer and Data Science enthusiast based in Moscow, currently focused on AI and Machine Learning. I enjoy building interactive tools and solving complex logical problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+* **Bauman Moscow State Technical University** | Class of '29
+* **Letovo School** | Alumni '25
+
+### 🚀 Featured Projects
+* **Credit Risk Assessment Model** – An ML model designed to evaluate creditworthiness and financial risk.
+* **Uno Multiplayer** – A browser-based version of the classic card game with real-time multiplayer support.
+
+### 🏆 Achievements & Public Speaking
+* **SPIEF 2025 Speaker** – "The young generation: a driver or a hostage of global trends?"
+
+
+### 🛠 Tech Stack & Tools
+* **Languages:** Python, C++, JavaScript, SQL
+
+---
+
+* 📍 Moscow, Russia
+* 📫mln.production@ya.ru
+* 🎯 Open for ML/DS Internship opportunities (2025-2026)
