@@ -27,4 +27,4 @@ I am a Developer and Data Science enthusiast based in Moscow, currently focused 
 
 * 📍 Moscow, Russia
 * 📫 mln.production@ya.ru
-* 🎯 Open for ML/DS Internship opportunities (2025-2026)
+* 🎯 Open for ML/DS Internship opportunities (2026-2027)
