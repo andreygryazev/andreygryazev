@@ -19,7 +19,7 @@ I am a Developer and Data Science enthusiast based in Moscow, currently focused 
 
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** Python, C++, JavaScript, SQL
+* **Languages:** Python, C++, SQL
 * **Tools:** VS Code
 * **Interests:** Fintech, AI, ML, Post-Quantum Cryptography, Alpine Ski
 
